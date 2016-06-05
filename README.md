@@ -48,8 +48,15 @@ VERSION 2
 
 ### HOW TO USE
 1. Run this code with processing.
+![run](https://github.com/RyosukeCla/DLASimulator/blob/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202016-06-06%203.02.37.png?raw=true)
+
 2. Click the left-top button. Then utilities will show.
+![click menu button](https://github.com/RyosukeCla/DLASimulator/blob/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202016-06-05%2018.07.00.png?raw=true)
+
 3. Watch DLA molding!!
+
+4. This picture was taken in this simulator by clicking ``take picture`` button.
+![picture](https://github.com/RyosukeCla/DLASimulator/blob/images/IMG_2016y6m6d1h46m31.png?raw=true)
 
 ***
 
