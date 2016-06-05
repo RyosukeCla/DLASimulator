@@ -1,4 +1,6 @@
 # DLASimulator v.4
+
+![DLA Simulator](https://github.com/RyosukeCla/DLASimulator/blob/images/IMG_2016y6m6d3h13m28.png?raw=true)
 Diffusion Limited Aggregation Model Simulator with Processing
 
 this programm was created with processing 3.0.
