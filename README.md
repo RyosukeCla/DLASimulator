@@ -1,4 +1,4 @@
-# DLASimulator v.4
+# DLASimulator v.5
 
 ![DLA Simulator](https://github.com/RyosukeCla/DLASimulator/blob/images/IMG_2016y6m6d3h13m28.png?raw=true)
 Diffusion Limited Aggregation Model Simulator with Processing
@@ -9,13 +9,23 @@ this programm was created with processing 3.0.
 
 - @autor ... Ryosuke Suzuki
 - @created . 05/29/2016
-- @updated . 06/06/2016
+- @updated . 06/07/2016
 
 ***
 
 ### HISTORY
 
-VERSION 4 - NEW
+VERSION 5 - NEW
+ - major update
+ - fix
+   - fix word : precipitation -> deposition
+ - optimize
+   - optimize collision
+   - optimize graphics : while stopping, stable fps - 60
+ - add Button
+   - generate micro particles
+
+VERSION 4
  - minor update
  - fix
    - fix spell : pricipitation -> precipitation
