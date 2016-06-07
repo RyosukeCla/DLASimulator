@@ -109,12 +109,14 @@ void setup () {
     public void action () {
       dla = new DLAController (4.0, 3000, menu.pSl.getValue(), 50);
       dla.setTimes (menu.vSl.getValue());
+      dla.drawGraphics();
     }
   });
   menu.generateMicro.setListener (new Listener () {
     public void action () {
-      dla = new DLAController (1.0, 10000, menu.pSl.getValue(), 250);
+      dla = new DLAController (1.5, 10000, menu.pSl.getValue(), 250);
       dla.setTimes (menu.vSl.getValue());
+      dla.drawGraphics();
     }
   });
   menu.pict.setListener (new Listener () {
@@ -130,8 +132,11 @@ void setup () {
       dla.setEffectRange (ran * 250, 500 - ran * 250);
       dla.setPricipitation (menu.pSl.getValue());
       dla.setTimes (menu.vSl.getValue());
+      dla.drawGraphics();
     }
   });
+  textSize (8);
+  textAlign (CENTER,CENTER);
 }
 
 void draw () {

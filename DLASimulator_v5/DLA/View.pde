@@ -13,6 +13,7 @@ class View {
   public void display () {
     
     stroke (20, 100, 200);
+    strokeWeight (1);
     noFill();
     float rangeX = particlesModel.effectRangeX1;
     ellipse (width/2, height/2, rangeX, rangeX);

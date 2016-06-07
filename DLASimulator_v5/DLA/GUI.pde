@@ -348,7 +348,7 @@ class Menu {
 
     if (isCollapsed == true) {
       if (slideX > 0) {
-        slideX -= 10.0;
+        slideX -= 10.0  + 100.0 / frameRate;
         setAllPos (initialX + slideX);
       }
     } else {
