@@ -19,7 +19,7 @@ VERSION 6 - NEW
  - major update
  - add GUI
  - improve photo
- - 
+ 
 VERSION 5
  - major update
  - fix
