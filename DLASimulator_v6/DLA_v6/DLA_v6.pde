@@ -169,7 +169,7 @@ void draw () {
     textAlign (RIGHT, CENTER);
     textSize (10);
     fill (200, 100);
-    text ("DLA Simulator v6 Created By Ryosuke Suzuki", width - 10, height - 15);
+    text ("DLA Simulator v6", width - 10, height - 15);
     String fileName = "IMG_" + year() + "y" + month() + "m" + day() + "d" + hour() +"h"+ minute() +"m" + second();
     saveFrame ("photo/"+fileName + ".png");
     background (100, 100);
