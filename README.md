@@ -72,8 +72,8 @@ VERSION 2
 
 3. Watch DLA molding!!
 
-4. This picture was taken in this simulator by clicking ``take picture`` button.
-![picture](https://github.com/RyosukeCla/DLASimulator/blob/images/IMG_2016y6m6d1h46m31.png?raw=true)
+4. This picture was taken in this simulator by clicking ``take picture`` button.(version 6)
+![picture](https://github.com/RyosukeCla/DLASimulator/blob/master/DLASimulator_v6/DLA_v6/photo/IMG_SAMPLE.png?raw=true)
 
 ***
 
